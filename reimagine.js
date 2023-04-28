@@ -6,7 +6,7 @@ $(document).ready(function() {
 
     const languages = [
         "zh-TW", "hu", "ru", "ja", "ko","zh-TW", "fil", "ja", "jv", "zh-TW",
-        "it", "ja", "ar", "hu", "kk", "zh-TW", "jr", "ja", "pt", "zh-TW", "ne", "ja", "en"
+        "it", "ja", "ar", "hu", "kk", "zh-TW", "el", "ja", "pt", "zh-TW", "ne", "ja", "en"
     ];
 
 
